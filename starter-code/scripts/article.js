@@ -46,5 +46,6 @@ for(let i = 0; i < rawData.length; i++) {
 }
 
 for(let i = 0; i < articles.length; i++) {
-  $('#articles').append(articles[i].toHtml());
+  // un-comment when toHTML in good enough shape to avoid terrible browser hang
+  // $('#articles').append(articles[i].toHtml());
 }
