@@ -10,6 +10,9 @@
     display: none;
 }
 
+.template {
+    display: none;
+}
 /* .main-nav img {
     position: absolute;
     top: 0;
