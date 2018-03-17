@@ -11,16 +11,20 @@
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
-
+link to jquery library so jquery functions will work.  Then create a constructor function to make all article objects.  finally, use jquery to display the content within the html page.
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
-link to jquery library so jquery functions will work.  Then create a constructor function to make all article objects.  finally, use jquery to display the content within the html page.
+Using JQuery and Javascript, the application sorts stored data according to publication date and renders it to the DOM.
 
 ## Change Log
-<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
+<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples: -->
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
+12:00 PM - 4:00 PM  pushed several updates with consecutive changes, forgot to update README.
 
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+Phillip Kim
+James McDaniel
+JB Tellez
+Shamarke Ibrahim
